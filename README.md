@@ -11,7 +11,7 @@ A Python project demonstrating the SOLID principles through an email sending ser
 ## 📦 Installation
 
 ```sh
-git clone https://github.com/yourusername/solid-email-sender.git
+git clone https://github.com/arslangzr/solid-email-sender.git
 cd solid-email-sender
 python -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
